@@ -1,6 +1,6 @@
 
 ## Hello there, I'm Rebecca Bracho
-I'm a Computer Engineering Student, learning Web Development and a bit of low level programming
+I'm a Computer Engineering Student, learning Web Development and exploring low level programming.
 
 ## Technologies
 
