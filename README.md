@@ -1,12 +1,6 @@
-<h3 align="center">
-Hello there, I'm Rebecca Bracho
-</h3>
 
-## About Me
-
-<p align="center">
+## Hello there, I'm Rebecca Bracho
 I'm a Computer Engineering Student, learning Web Development and a bit of low level programming
-</p>
 
 ## Technologies
 
