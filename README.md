@@ -5,7 +5,7 @@ Hello there, I'm Rebecca Bracho
 ## About Me
 
 <p align="center">
-I'm a Computer Engineering Student, learning Web Development with a bit of low level programming
+I'm a Computer Engineering Student, learning Web Development and a bit of low level programming
 </p>
 
 ## Technologies
